@@ -65,22 +65,17 @@ The application uses **8 tables**:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/recipe-generator.git
+      github.com/sophiasai635-alt/-Ingredient-Based-Recipe-Generator-with-Nutrition-Health-Analysis.git
    ```
 
-2. **Move to XAMPP's htdocs directory**
-   ```bash
-   mv recipe-generator /path/to/xampp/htdocs/
-   ```
+2. **Start Apache and MySQL** from the XAMPP Control Panel
 
-3. **Start Apache and MySQL** from the XAMPP Control Panel
-
-4. **Import the database**
+3. **Import the database**
    - Open `http://localhost/phpmyadmin`
    - Create a new database (e.g. `recipe_db`)
    - Import the provided `.sql` file from the `/database` folder
 
-5. **Configure the database connection**
+4. **Configure the database connection**
    - Open `api/db.php`
    - Update credentials:
      ```php
@@ -90,8 +85,8 @@ The application uses **8 tables**:
      $password = "";
      ```
 
-6. **Run the app**
-   - Visit `http://localhost/recipe-generator/` in your browser
+5. **Run the app**
+   - Visit `http://localhost/-Ingredient-Based-Recipe-Generator-with-Nutrition-Health-Analysis` in your browser
 
 ---
 
