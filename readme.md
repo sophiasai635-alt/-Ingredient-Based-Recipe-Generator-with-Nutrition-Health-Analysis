@@ -133,13 +133,6 @@ Final Score = (Recipe Coverage × 0.6) + (Ingredient Utilization × 0.4)
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | Recipe Results | Nutrition View |
-|---|---|---|
-| ![Dashboard](assets/screenshots/dashboard.png) | ![Results](assets/screenshots/results.png) | ![Nutrition](assets/screenshots/nutrition.png) |
-
-> Add screenshots to `assets/screenshots/` to display them here.
 
 ---
 
@@ -160,7 +153,7 @@ Final Score = (Recipe Coverage × 0.6) + (Ingredient Utilization × 0.4)
 **Sophia S** (23PHCS18)  
 BSc Physics & Computer Science  
 Kristu Jayanti College (Autonomous), Bengaluru  
-Under the guidance of **Shiny TL**
+
 
 ---
 
